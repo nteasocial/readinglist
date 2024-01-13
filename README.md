@@ -1,6 +1,11 @@
-# Reading List
+# nteasocial's Reading List
 
 Year - 2024
+
+## Table of Contents
+- [Tech](#tech)
+- [Design](#design)
+- [Contributing](#contributing)
 
 ## Tech
 
@@ -14,6 +19,7 @@ Year - 2024
 
 ## Contributing
 
-Feel free to contribute to this reading list! If you have a favorite blog or article related to technology or design in 2024, please open an issue or submit a pull request with your suggestion.
+Contributions are welcome! Please open an issue or submit a pull request with your suggestion.
 
-Happy reading!
+Happy reading! 📚
+Follow me on [Twitter](https://twitter.com/nteasocial) - @nteasocial
