@@ -22,4 +22,5 @@ Year - 2024
 Contributions are welcome! Please open an issue or submit a pull request with your suggestion.
 
 Happy reading! 📚
-Follow me on [Twitter](https://twitter.com/nteasocial) - @nteasocial
+and 
+[Twitter](https://twitter.com/nteasocial) - @nteasocial
