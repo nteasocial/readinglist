@@ -10,7 +10,9 @@ Year - 2024
 ## Tech
 
 1. **[Frontend Predictions for 2024](https://buttondown.email/whatever_jamie/archive/frontend-predictions-for-2024/)**
-   - Jamie's predictions for frontend development in 2024. 
+
+2. **[Godot Rendering Priorties](https://godotengine.org/article/rendering-priorities-january-2024)**
+   
 
 ## Design
 
