@@ -25,4 +25,4 @@ Contributions are welcome! Please open an issue or submit a pull request with yo
 
 Happy reading! 📚
 and 
-[Twitter](https://twitter.com/nteasocial) - @nteasocial
+[Twitter](https://twitter.com/nteasocial)
